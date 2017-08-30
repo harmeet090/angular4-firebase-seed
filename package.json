@@ -1,0 +1,70 @@
+{
+  "name": "angular4-firebase-seed",
+  "version": "1.0.0",
+  "description": "A simple starter Angular4 project with firebase",
+  "scripts": {},
+  "contributors": [
+	"Harmeet Singh <harmeetsingh090@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@angular/animations": "^4.3.6",
+    "@angular/common": "^4.3.6",
+    "@angular/compiler": "^4.3.6",
+    "@angular/compiler-cli": "^4.3.6",
+    "@angular/core": "^4.3.6",
+    "@angular/forms": "^4.3.6",
+    "@angular/http": "^4.3.6",
+    "@angular/platform-browser": "^4.3.6",
+    "@angular/platform-browser-dynamic": "^4.3.6",
+    "@angular/platform-server": "^4.3.6",
+    "@angular/router": "^4.3.6",
+    "@angular/upgrade": "~2.2.1",
+    "angular2-in-memory-web-api": "0.0.21",
+    "angularfire2": "^4.0.0-rc.2",
+    "bootstrap": "^3.3.7",
+    "core-js": "^2.4.1",
+    "firebase": "^4.3.0",
+    "ie-shim": "^0.1.0",
+    "promise-polyfill": "6.0.2",
+    "reflect-metadata": "^0.1.3",
+    "rxjs": "^5.4.3",
+    "zone.js": "~0.7.7"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.48",
+    "angular2-router-loader": "^0.3.4",
+    "angular2-template-loader": "^0.6.0",
+    "awesome-typescript-loader": "^3.2.3",
+    "css-loader": "^0.25.0",
+    "gulp": "~3.9.1",
+    "raw-loader": "^0.5.1",
+    "source-map-support": "^0.4.16",
+    "to-string-loader": "^1.1.4",
+    "typescript": "^2.4.2",
+    "webpack": "2.2.1",
+    "webpack-merge": "^3.0.0"
+  },
+  "keywords": [
+	"Liferay 7",
+	"Liferay DXP",
+    "Angular4",
+	"firebase",
+	"firebase real time database",
+	"sample project with angular4 and firebase",
+    "angular4-seed",
+    "official angular 4 project",
+    "official angular4 project"
+	"official angular4 and firebase project"
+	"official angular4 and firebase seed"
+	"official angular and firebase"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmeet090/angular4-firebase-seed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/harmeet090/angular4-firebase-seed/issues"
+  },
+  "homepage": "https://github.com/angular/angular2-seed#readme"
+}
