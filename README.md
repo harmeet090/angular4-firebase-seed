@@ -2,10 +2,10 @@
   A simple starter project demonstrating the basic concepts of Angular 2.
 
 ## Getting Started
-  Clone or fork this repository
-  Make sure you have node.js installed version 6+
-  Make sure you have NPM installed version 3.9+
-  Deploy using gradle or Eclipse Liferay tools
+* Clone or fork this repository
+* Make sure you have node.js installed version 6+
+* Make sure you have NPM installed version 3.9+
+* Deploy using gradle or Eclipse Liferay tools
   
 ### Install
 
@@ -16,14 +16,15 @@ npm install
 ```
 ### Add Firebase to Your app
 
-Create a Firebase project in the [Firebase console](https://console.firebase.google.com/).
-click to Create New Project.
-If you already have a Firebase project, click Add App from the project overview page.
-Click Add Firebase to your web app.
-Note the initialization code snippet, which you will need to replace in environment.ts file.
-```
-src\main\resources\META-INF\resources\enviroments - 
+* Create a Firebase project in the [Firebase console](https://console.firebase.google.com/).
+* click to Create New Project.
+* If you already have a Firebase project, click Add App from the project overview page.
+* Click Add Firebase to your web app.
+* Note the initialization code snippet, which you will need to replace in environment.ts file.
 
+#### src\main\resources\META-INF\resources\enviroments - sample code
+
+```
   // Initialize Firebase
   // TODO: Replace with your project's customized code snippet
   production: false,
