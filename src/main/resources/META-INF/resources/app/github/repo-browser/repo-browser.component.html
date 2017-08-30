@@ -1,6 +1,9 @@
 <h3>GitHub Browser</h3>
 
-<input type="text" #repoName placeholder="Search Github Orgs">
-<button (click)="searchForOrg(repoName.value)">Search Orgs</button>
-
+<form class="navbar-form" role="search">
+    <div class="form-group">
+        <input type="text" class="form-control" #repoName placeholder="Search Github Orgs">
+    </div>
+    <button (click)="searchForOrg(repoName.value)" class="btn btn-default">Search Orgs</button>
+</form>
 <router-outlet></router-outlet>
